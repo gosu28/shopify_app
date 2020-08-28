@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T06:50:37.407Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" version="13.6.5" etag="sfdUsHndR-uBDL110kZW" type="github"><diagram id="fMphTZxV1xUrq6NzFLZK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-28T07:22:34.300Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="tIi2MfFRsqyfxRrg6y27" version="13.6.5" type="github">
+  <diagram id="fMphTZxV1xUrq6NzFLZK" name="Page-1">
+    <mxGraphModel dx="2272" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-12" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-13" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="5JfZJ-OxA47K4dqrhxG3-12" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-27" value="Shopify" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-28" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1560" as="sourcePoint" />
+            <mxPoint x="440" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-29" value="Odoo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-30" value="install app" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="930" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-32" target="5JfZJ-OxA47K4dqrhxG3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-32" value="Install App từ Shopify" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-33" target="5JfZJ-OxA47K4dqrhxG3-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-33" value="Vào form để thêm kênh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-36" target="5JfZJ-OxA47K4dqrhxG3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-36" value="Chọn post để đăng bài&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-37" value="Tạo ra một bài blog tương ứng ở store" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-39" target="5JfZJ-OxA47K4dqrhxG3-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-39" target="5JfZJ-OxA47K4dqrhxG3-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-39" value="Kiểm tra xem shop đã&lt;br&gt;&amp;nbsp;được tạo hay chưa" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="1040" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-42" value="Vào trang liên kết với facebook&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5JfZJ-OxA47K4dqrhxG3-45" target="5JfZJ-OxA47K4dqrhxG3-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-45" value="Tạo mới một bài post" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5JfZJ-OxA47K4dqrhxG3-48" value="Post bài" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-119" y="1290" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
